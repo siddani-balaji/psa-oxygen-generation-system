@@ -28,5 +28,5 @@ During pressure reduction, nitrogen is released, allowing continuous oxygen prod
 
 ## System Diagram
 - Screenshot_2026_0106_174026.jpg
--IMG-20260106-WA0014.jpg
+- IMG-20260106-WA0014.jpg
 
